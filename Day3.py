@@ -23,6 +23,29 @@ area(7,8)
 def area(l=10,b=20):
     print("Area of the rectangle",l*b)
 area()
+
+def home():
+    print("Hello")
+home()
+home()
+
+def message(name):
+    print("Hello " + name)
+message("Anil")
+message("John")
+
+def sum(a,b):
+    print(a+b)
+sum(2,3)
+
+def msg():
+    return "hello"
+print(msg())
+
+def sqrt(n):
+    return n*n
+print(sqrt(5))
+
 #Strings
 str="hello world"
 print(str[7])
