@@ -1,0 +1,5 @@
+there are exception which interrupt a program overflow by errors some of the common errors are:
+
+1 ZeroDivisionError 1/0
+2 Valueerror int("Hello")
+3 Typeerror 1+"2"
